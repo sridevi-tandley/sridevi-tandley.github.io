@@ -101,3 +101,21 @@ footer .wrap{display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-betw
 .skip:focus{left:12px}
 a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
 @media print{.top,footer,.skip,.btn{display:none!important}main{padding:0}a{border-bottom:0;color:inherit}}
+
+/* home: profile facts */
+.profile{display:grid;grid-template-columns:190px 1fr;gap:12px 22px;margin:22px 0 0;padding:20px 0 4px;border-top:1px solid var(--rule)}
+.profile dt{font-size:12.5px;letter-spacing:1.2px;text-transform:uppercase;color:var(--soft);font-weight:600;padding-top:3px}
+.profile dd{margin:0;font-size:16px;line-height:1.55}
+.profile dd b{color:var(--navy)}
+.profile dd .muted{font-size:14px}
+@media (max-width:640px){.profile{grid-template-columns:1fr;gap:4px 0}.profile dt{margin-top:12px}}
+.roles2{display:grid;grid-template-columns:1fr 1fr;gap:10px 28px}
+.roles2 .muted{display:block;font-size:12.5px;letter-spacing:1px;text-transform:uppercase;font-weight:600;margin-bottom:6px}
+.roles2 ul.clean li{margin-bottom:4px;font-size:15.5px}
+@media (max-width:640px){.roles2{grid-template-columns:1fr}}
+.roles2 .soft{color:var(--soft);font-size:13.5px}
+.brand{line-height:1.2}
+.conf li{grid-template-columns:120px 1fr;padding:10px 0}
+.conf li div{font-size:15.5px;line-height:1.5}
+.conf a{font-size:14px;white-space:nowrap}
+@media (max-width:640px){.conf li{grid-template-columns:1fr;gap:2px}}
