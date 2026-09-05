@@ -1,10 +1,10 @@
 # sridevi-tandley.github.io
 
-Personal academic website of Dr. Sridevi Tandley — 
+Personal academic website of Dr. Sridevi Tandley 
 
 Live address once published: **https://sridevi-tandley.github.io/**
 
-## Publish it
+## Publish it 
 
 1. **Sign in** at https://github.com as **sridevi-tandley** (create the account with that exact username if it does not exist yet — the site address comes from the username).
 2. **Create the repository**: click the **+** at the top right → **New repository**. Name it exactly `sridevi-tandley.github.io`, set it to **Public**, leave "Add a README" unticked, click **Create repository**.
@@ -30,7 +30,7 @@ If you prefer a desktop tool: install **GitHub Desktop**, *File → Clone reposi
 ```
 index.html       Home — photo, bio, contact links, recent work
 research.html    Working papers, presentations, articles and chapters, reports, work in progress
-teaching.html    Courses designed and taught, corporate learning, teaching interests, governance roles
+teaching.html    Courses designed, corporate learning, conferences & lectures, teaching interests, academic roles
 industry.html    Applied projects led from BIM, career, client exposure, specialisations
 ai-agents-at-work.html  Masterclass companion — build-process film, six steps, four blocks, key insights
 cv.html          CV page with embedded PDF and download
