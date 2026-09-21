@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sridevi-tandley.github.io/sitemap.xml
